@@ -1,7 +1,4 @@
-
-
 print("Hello world")
-
 name = " Ali"
 age = 20
 GPA = 3.5
